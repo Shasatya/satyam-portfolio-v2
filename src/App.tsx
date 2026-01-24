@@ -1,8 +1,10 @@
+import { Hero } from "./sections";
+
 function App() {
   return (
-    <div className="bg-black">
-      <p className="text-white">Hello</p>
-    </div>
+    <main className="bg-black text-white">
+      <Hero />
+    </main>
   );
 }
 
