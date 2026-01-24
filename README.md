@@ -1,1 +1,1 @@
-# satyam-portfolio-v2
+# React + TypeScript + Vite
