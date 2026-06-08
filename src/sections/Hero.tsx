@@ -45,13 +45,13 @@ const Hero = () => {
         ref={textRef}
         className="relative flex flex-col items-center justify-center z-10 text-center"
       >
-        <h1 className="font-a text-[15vw] leading-none font-bold uppercase tracking-tighter">
+        <h1 className="font-display text-[15vw] leading-none font-bold uppercase tracking-tighter">
           SATYAM
         </h1>
         <hr />
         <div className="flex items-center gap-4 mt-4">
           <span className="h-0.5 w-20 bg-main"></span>
-          <p className="text-xl tracking-[0.3em] uppercase font-a">
+          <p className="text-xl tracking-[0.3em] uppercase font-display">
             Full Stack Developer
           </p>
           <span className="h-0.5 w-20 bg-main"></span>
