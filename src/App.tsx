@@ -1,4 +1,11 @@
-import { Experience, Hero, Overview, Projects, TechStack } from "./sections";
+import {
+  Archive,
+  Experience,
+  Hero,
+  Overview,
+  Projects,
+  TechStack,
+} from "./sections";
 
 function App() {
   return (
@@ -8,6 +15,7 @@ function App() {
       <Projects />
       <TechStack />
       <Experience />
+      <Archive />
     </main>
   );
 }
