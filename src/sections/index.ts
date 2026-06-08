@@ -4,5 +4,6 @@ export { default as Experience } from "./Experience";
 export { default as Projects } from "./Projects";
 export { default as TechStack } from "./TechStack";
 export { default as Archive } from "./Archive";
+export { default as Footer } from "./Footer";
 
-//?Archive
+//?Footer

@@ -5,6 +5,7 @@ import {
   Overview,
   Projects,
   TechStack,
+  Footer,
 } from "./sections";
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       <TechStack />
       <Experience />
       <Archive />
+      <Footer />
     </main>
   );
 }
