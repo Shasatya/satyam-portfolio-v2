@@ -1,12 +1,13 @@
-import { Experience, Hero, Overview, Projects } from "./sections";
+import { Experience, Hero, Overview, Projects, TechStack } from "./sections";
 
 function App() {
   return (
     <main className="bg-black text-white">
       <Hero />
       <Overview />
-      <Experience />
       <Projects />
+      <TechStack />
+      <Experience />
     </main>
   );
 }
