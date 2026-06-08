@@ -1,4 +1,4 @@
-import { Experience, Hero, Overview } from "./sections";
+import { Experience, Hero, Overview, Projects } from "./sections";
 
 function App() {
   return (
@@ -6,6 +6,7 @@ function App() {
       <Hero />
       <Overview />
       <Experience />
+      <Projects />
     </main>
   );
 }

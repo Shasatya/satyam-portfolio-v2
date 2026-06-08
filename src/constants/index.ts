@@ -25,7 +25,7 @@ export const jobs = [
   {
     company: "Observance Solutions",
     role: "Product Eng.",
-    year: "2026 - present",
+    year: "2026 - Present",
     desc: "Currently here.",
   },
   {
